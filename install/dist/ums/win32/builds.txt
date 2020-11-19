@@ -1,0 +1,16 @@
+Name:                      Version/Build:       Link:
+
+DCRaw                      9.27                 http://www.centrostudiprogressofotografico.it/en/dcraw/
+FFmpeg                     403a53c (20160617)   http://ffmpeg.zeranoe.com/builds/                                    Fontconfig: 2.11.94
+                                                                                                                     FreeType: 2.6.3
+                                                                                                                     libass: 0.13.2
+                                                                                                                     x264: 20160420-git-3b70645
+                                                                                                                     x265: 1.9
+FLAC                       1.3.1                http://flac.sourceforge.net/
+ImageMagick Convert        6.7.6-4              http://www.imagemagick.org
+InterFrame                 2.8.2                http://www.spirton.com/interframe/
+Java Runtime Environment   1.8.181              http://www.oracle.com/technetwork/java/javase/downloads/index.html
+Java Service Wrapper       3.5.15               http://wrapper.tanukisoftware.com/
+MediaInfo                  18.03.1              http://mediainfo.sourceforge.net/
+MPlayer & MEncoder         SB65-UMS             http://www.spirton.com/mplayer-mencoder-subjunk-build/
+tsMuxeR                    1.10.6 & 2.2.3b      http://www.networkoptix.com

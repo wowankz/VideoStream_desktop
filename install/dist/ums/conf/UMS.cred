@@ -1,0 +1,4 @@
+# Add credentials to the file
+# on the format tag=user,password
+# For example:
+# channels.xxx=name,secret
